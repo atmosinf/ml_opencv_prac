@@ -1,5 +1,6 @@
 ## Screenshots from the lectures<br>
 
+## basic.py
 ![1](screenshots/1.png)<br><br>
 ![2](screenshots/2.png)<br><br>
 ![3](screenshots/3.png)<br><br>
@@ -15,8 +16,8 @@
 ![13](screenshots/13.png)<br><br>
 ![14](screenshots/14.png)<br><br>
 ![15](screenshots/15.png)<br><br>
+## transformations.py
 ![16](screenshots/16.png)<br><br>
-<!---
 ![17](screenshots/17.png)<br><br>
 ![18](screenshots/18.png)<br><br>
 ![19](screenshots/19.png)<br><br>
@@ -28,6 +29,7 @@
 ![25](screenshots/25.png)<br><br>
 ![26](screenshots/26.png)<br><br>
 ![27](screenshots/27.png)<br><br>
+## contours.py
 ![28](screenshots/28.png)<br><br>
 ![29](screenshots/29.png)<br><br>
 ![30](screenshots/30.png)<br><br>
@@ -101,5 +103,6 @@
 ![98](screenshots/98.png)<br><br>
 ![99](screenshots/99.png)<br><br>
 ![100](screenshots/100.png)<br><br>
+<!--
 -->
 
