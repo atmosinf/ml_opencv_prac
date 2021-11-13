@@ -15,5 +15,9 @@ cv.imshow('blur', blur)
 canny = cv.Canny(img, 125, 175)
 cv.imshow('canny',canny)
 
+# dilating an image
+dilated = cv.dilate(canny, (7,7), iterations=3)
+cv.imshow('dilated',dilated)
+
 
 cv.waitKey(0)
