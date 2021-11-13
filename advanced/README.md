@@ -13,6 +13,7 @@
 ![8](screenshots/8.png)<br><br>
 ![9](screenshots/9.png)<br><br>
 ![10](screenshots/10.png)<br><br>
+### smoothing.py
 ![11](screenshots/11.png)<br><br>
 ![12](screenshots/12.png)<br><br>
 ![13](screenshots/13.png)<br><br>
@@ -21,6 +22,7 @@
 ![16](screenshots/16.png)<br><br>
 ![17](screenshots/17.png)<br><br>
 ![18](screenshots/18.png)<br><br>
+**blurs but keeps the edges**<br><br>
 ![19](screenshots/19.png)<br><br>
 ![20](screenshots/20.png)<br><br>
 ![21](screenshots/21.png)<br><br>
