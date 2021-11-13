@@ -13,8 +13,8 @@ cv.imshow('blank', blank)
 # blur = cv.GaussianBlur(gray, (5,5), cv.BORDER_DEFAULT)
 # cv.imshow('blur', blur)
 
-# canny = cv.Canny(blur, 125, 175)
-# cv.imshow('canny edges', canny)
+canny = cv.Canny(img, 125, 175)
+cv.imshow('canny edges', canny)
 
 ret, thresh = cv.threshold(gray, 125, 255, cv.THRESH_BINARY)
 cv.imshow('thresh', thresh)

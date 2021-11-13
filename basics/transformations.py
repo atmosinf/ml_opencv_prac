@@ -37,4 +37,5 @@ cv.imshow('resized', resized)
 flipped = cv.flip(img, -1)
 cv.imshow('flipped', flipped)
 
+
 cv.waitKey(0)
