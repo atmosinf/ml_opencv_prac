@@ -19,5 +19,12 @@ cv.imshow('canny',canny)
 dilated = cv.dilate(canny, (7,7), iterations=3)
 cv.imshow('dilated',dilated)
 
+# eroded 
+eroded = cv.erode(dilated, (7,7), iterations=3)
+cv.imshow('eroded',eroded)
+
+# resize
+resized = cv.resize(img, (500,500))
+cv.imshow('resized', resized)
 
 cv.waitKey(0)
