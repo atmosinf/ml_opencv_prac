@@ -42,11 +42,13 @@
 ![32](screenshots/32.png)<br><br>
 ![33](screenshots/33.png)<br><br>
 ![34](screenshots/34.png)<br><br>
+### histogram.py
 ![35](screenshots/35.png)<br><br>
 ![36](screenshots/36.png)<br><br>
 ![37](screenshots/37.png)<br><br>
 ![38](screenshots/38.png)<br><br>
 ![39](screenshots/39.png)<br><br>
+### thresh.py
 ![40](screenshots/40.png)<br><br>
 ![41](screenshots/41.png)<br><br>
 ![42](screenshots/42.png)<br><br>
