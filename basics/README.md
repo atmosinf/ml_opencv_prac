@@ -7,7 +7,6 @@
 ![5](screenshots/5.png)<br><br>
 ![6](screenshots/6.png)<br><br>
 ![7](screenshots/7.png)<br><br>
-<!---
 ![8](screenshots/8.png)<br><br>
 ![9](screenshots/9.png)<br><br>
 ![10](screenshots/10.png)<br><br>
@@ -17,6 +16,7 @@
 ![14](screenshots/14.png)<br><br>
 ![15](screenshots/15.png)<br><br>
 ![16](screenshots/16.png)<br><br>
+<!---
 ![17](screenshots/17.png)<br><br>
 ![18](screenshots/18.png)<br><br>
 ![19](screenshots/19.png)<br><br>
