@@ -27,4 +27,8 @@ cv.imshow('eroded',eroded)
 resized = cv.resize(img, (500,500))
 cv.imshow('resized', resized)
 
+# cropping
+cropped = img[50:200,200:400]
+cv.imshow('cropped',cropped)
+
 cv.waitKey(0)
