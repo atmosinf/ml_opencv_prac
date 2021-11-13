@@ -23,6 +23,7 @@
 ![17](screenshots/17.png)<br><br>
 ![18](screenshots/18.png)<br><br>
 **blurs but keeps the edges**<br><br>
+### bitwise.py
 ![19](screenshots/19.png)<br><br>
 ![20](screenshots/20.png)<br><br>
 ![21](screenshots/21.png)<br><br>
@@ -33,6 +34,8 @@
 ![26](screenshots/26.png)<br><br>
 ![27](screenshots/27.png)<br><br>
 ![28](screenshots/28.png)<br><br>
+## masking.py
+**the mask and the source image should be of the same size**<br><br>
 ![29](screenshots/29.png)<br><br>
 ![30](screenshots/30.png)<br><br>
 ![31](screenshots/31.png)<br><br>
